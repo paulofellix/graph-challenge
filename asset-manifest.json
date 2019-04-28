@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/graph-challege/static/js/main.a5ea21e6.chunk.js",
+    "main.js.map": "/graph-challege/static/js/main.a5ea21e6.chunk.js.map",
+    "runtime~main.js": "/graph-challege/static/js/runtime~main.657fb542.js",
+    "runtime~main.js.map": "/graph-challege/static/js/runtime~main.657fb542.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/graph-challege/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.e008597e.chunk.js": "/graph-challege/static/js/2.e008597e.chunk.js",
+    "static/js/2.e008597e.chunk.js.map": "/graph-challege/static/js/2.e008597e.chunk.js.map",
+    "index.html": "/graph-challege/index.html",
+    "precache-manifest.adaf8bb41e024cfd4ff525abacc0eaac.js": "/graph-challege/precache-manifest.adaf8bb41e024cfd4ff525abacc0eaac.js",
+    "service-worker.js": "/graph-challege/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/graph-challege/static/css/2.22a7d4ef.chunk.css.map"
+  }
+}
